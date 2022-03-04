@@ -1,12 +1,2 @@
-ls
-
-
-
-[A[A[A[A[A[[A[C[B[B[A[B[A[D#!/bin/bash
-chown -h vincent:staff_hello[D[D[D[D[D[D [C[C[C[C[C[D[D[D[D[D_hello
-:wq
-
-[A[A[C[C:wq
-[A[C::wq
-[A[C$ git add .
-[A[C[C[C[C[C[C[C[Cgit add .
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
